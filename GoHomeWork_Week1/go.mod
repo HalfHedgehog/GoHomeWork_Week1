@@ -1,4 +1,4 @@
-module demo
+module GoHomeWork_week1
 
 go 1.16
 
